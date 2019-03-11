@@ -1,0 +1,71 @@
+{
+    "intro": {
+        "name": "Le Ke Tuan",
+        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled.",
+        "phone": "083.9988.266",
+        "address": "116 Vu Trong Phung"
+    },
+    "education": [
+        {
+            "time": "20xx-20xx",
+            "school": "Ten Truong",
+            "detail": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        },
+        {
+            "time": "20xx-20xx",
+            "school": "Ten Truong",
+            "detail": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        },
+        {
+            "time": "20xx-20xx",
+            "school": "Ten Truong",
+            "detail": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        }
+    ],
+    "experience": [
+        {
+            "time": "20xx-20xx",
+            "company": "Company Name",
+            "detail": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        },
+        {
+            "time": "20xx-20xx",
+            "company": "Company Name",
+            "detail": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        },
+        {
+            "time": "20xx-20xx",
+            "company": "Company Name",
+            "detail": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+        }
+    ],
+    "skill": [
+        {
+            "title": "Skill 1",
+            "percent": 70
+        },
+        {
+            "title": "Skill 2",
+            "percent": 80
+        },
+        {
+            "title": "Skill 3",
+            "percent": 90
+        },
+        {
+            "title": "Skill 4",
+            "percent": 65
+        }
+    ],
+    "hobby": [
+        {
+            "item": "Fishing"
+        },
+        {
+            "item": "Football"
+        },
+        {
+            "item": "Playing game"
+        }
+    ]
+}

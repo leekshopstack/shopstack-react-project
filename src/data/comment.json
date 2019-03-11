@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "parent": "",
+        "post_id": 1,
+        "author": {
+            "avatar": "http://placehold.it/50x50",
+            "name": "Leek"
+        },
+        "content": "Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+    },
+    {
+        "id": 2,
+        "parent": "",
+        "post_id": 1,
+        "author": {
+            "avatar": "http://placehold.it/50x50",
+            "name": "Leek"
+        },
+        "content": "Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.",
+        "reply": [
+            {
+                "id": 3,
+                "parent": 2,
+                "post_id": 1,
+                "author": {
+                    "avatar": "http://placehold.it/50x50",
+                    "name": "Leek"
+                },
+                "content": "Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+            },
+            {
+                "id": 4,
+                "parent": 2,
+                "post_id": 1,
+                "author": {
+                    "avatar": "http://placehold.it/50x50",
+                    "name": "Leek"
+                },
+                "content": "Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+            }
+        ]
+    }
+]

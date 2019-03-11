@@ -1,0 +1,12 @@
+.leek-header .collapse {
+    justify-content: flex-end;
+    -webkit-justify-content: flex-end;
+}
+
+.navbar-brand {
+    text-transform: uppercase;
+}
+
+.nav-link {
+    text-transform: uppercase;
+}

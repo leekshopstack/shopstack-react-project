@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "path": "/",
+        "label": "About",
+        "exact": false
+    }, {
+        "id": 2,
+        "path": "blog",
+        "label": "Blog",
+        "exact": false
+    },
+    {
+        "id": 3,
+        "path": "contact",
+        "label": "Contact",
+        "exact": false
+    }
+]
